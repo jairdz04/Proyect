@@ -59,6 +59,7 @@
   <ItemGroup>
     <Content Include="Web.config" />
     <Content Include="Web\EstiloIndex.css" />
+    <Content Include="Web\EstiloReg.css" />
     <Content Include="Web\Index.aspx" />
     <Content Include="Web\RecuperarCon.aspx" />
     <Content Include="Web\Registro.aspx" />
