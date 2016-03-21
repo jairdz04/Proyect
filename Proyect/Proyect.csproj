@@ -60,6 +60,10 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Modelo\Admin.cs" />
+    <Compile Include="Modelo\Docente.cs" />
+    <Compile Include="Modelo\Estudiante.cs" />
+    <Compile Include="Modelo\Persona.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -71,7 +75,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Modelo\" />
     <Folder Include="Web\" />
   </ItemGroup>
   <PropertyGroup>
